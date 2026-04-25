@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6AA6F8&width=600&lines=Hey%2C+I'm+MedAmin+%F0%9F%91%8B;Software+Engineering+Student+%40+INSAT;AI+Research+Oriented)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6AA6F8&width=600&lines=Hey%2C+I'm+Haffouz_MohamedAmin+%F0%9F%91%8B;Software+Engineering+Student+%40+INSAT;AI+Research+Oriented)](https://git.io/typing-svg)
 
 ```python
 #!/usr/bin/python
