@@ -68,7 +68,6 @@ me.say_hi()
 
 ---
 
-## 📝 Other
 
 - 🏫 Built other websites as fullstack web dev like : [MPI Resources](https://github.com/MedAminHaffouz/MPI-Ressources-workspace) — a resource hub for incoming students at INSAT
-- Long-term interest: AI as a scientific tool 🔭🧬⚛️⚡♻️🌎
+- Long-term interest: AI as a scientific tool 🔭🧬⚛️⚡♻️
