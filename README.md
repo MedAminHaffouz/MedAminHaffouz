@@ -71,5 +71,4 @@ me.say_hi()
 ## 📝 Other
 
 - 🏫 Built other websites as fullstack web dev like : [MPI Resources](https://github.com/MedAminHaffouz/MPI-Ressources-workspace) — a resource hub for incoming students at INSAT
-- 📚 Currently working through: attention mechanisms — the long way around
 - Long-term interest: AI as a scientific tool 🔭🧬⚛️⚡♻️🌎
