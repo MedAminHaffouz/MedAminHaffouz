@@ -4,19 +4,19 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class CSandSWEstudent:
+class haffouzzz:
     def __init__(self):
         self.name       = "Mohammed Amin Haffouz"
         self.role       = "Software Engineering Student · AI Research Oriented"
         self.education  = "3rd year @ INSAT"
-        self.interests  = ["Deep Learning", "GPU Computing", "AI-based Research", "Systems Programming"]
+        self.interests  = ["Deep Learning", "Embedded Systems & Robotics", "AI-based Research", "Systems Programming"]
 
     def say_hi(self):
         print("Obsessed with the why behind the how.")
         print("Teaching machines to learn, while still learning myself.")
         print("I don't use Arch btw")
 
-me = CSandSWEstudent()
+me = haffouzzz()
 me.say_hi()
 ```
 
@@ -35,6 +35,10 @@ me.say_hi()
 **Backend & Infra:**
 
 ![NestJS](https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=6aa6f8) ![GraphQL](https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=6aa6f8)  ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+
+**Embedded & Low-Level:**
+
+![Arduino](https://img.shields.io/badge/Embedded-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=6aa6f8) ![ESP32](https://img.shields.io/badge/Embedded-ESP32-informational?style=flat&logo=espressif&logoColor=white&color=6aa6f8) ![STM32](https://img.shields.io/badge/Embedded-STM32-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=6aa6f8)
 
 ---
 
@@ -69,5 +73,13 @@ me.say_hi()
 ---
 
 
-- 🏫 Built other websites as fullstack web dev like : [MPI Resources](https://github.com/MedAminHaffouz/MPI-Ressources-workspace) — a resource hub for incoming students at INSAT
-- Long-term interest: AI as a scientific tool 🔭🧬⚛️⚡♻️
+**Other work & practicals:**
+
+- 🔌 Sensors & serial prototyping on [Arduino](https://github.com/MedAminHaffouz/prototyping_sensors_output_into_data) — reading and piping sensor data into structured output
+- ⚙️ DMA & OO driver architecture on [STM32](https://github.com/MedAminHaffouz/stm32_oo_serial_gprs_driver) — serial + GPRS driver in C with object-oriented patterns
+- ⚡ [CUDA](https://github.com/ahkinsat/tp_codesign_cuda) kernel programming lab — matrix coalescing, TensorCore WMMA, warp-shuffle reduction (8.5× speedup)
+- 🏫 [MPI Resources](https://github.com/MedAminHaffouz/MPI-Ressources-workspace) — a resource hub for incoming students at INSAT
+- 🛒 [e-commerce store](https://github.com/Medmas07/e-commerce-small-udemy-e-book-store-) — small Udemy-style e-book platform
+- 🔄 [queue-flow-backend](https://github.com/yassine-krichen/queue-flow-backend) — collaborative queue management backend
+
+- Long-term interest: AI as a scientific tool 🔭🧬⚛️⚡♻️🪐
